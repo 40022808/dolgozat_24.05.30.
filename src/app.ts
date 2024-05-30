@@ -1,3 +1,11 @@
+/*
+* File: app.ts
+* Author: Ye haoze
+* Group: I-2-N
+* Date: 2024-05-30
+*/
+
+
 class teglap_atlo {
     aSide?:HTMLInputElement | null;
     bSide?:HTMLInputElement | null;
